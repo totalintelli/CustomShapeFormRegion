@@ -1,0 +1,8 @@
+D:\Projects\CustomShapeFormRegion\bin\Debug\CustomShapedFormRegion.exe
+D:\Projects\CustomShapeFormRegion\bin\Debug\CustomShapedFormRegion.pdb
+D:\Projects\CustomShapeFormRegion\obj\Debug\CustomShapedFormRegion.csprojResolveAssemblyReference.cache
+D:\Projects\CustomShapeFormRegion\obj\Debug\CustomShapedFormRegion.Form1.resources
+D:\Projects\CustomShapeFormRegion\obj\Debug\CustomShapedFormRegion.Properties.Resources.resources
+D:\Projects\CustomShapeFormRegion\obj\Debug\CustomShapedFormRegion.csproj.GenerateResource.Cache
+D:\Projects\CustomShapeFormRegion\obj\Debug\CustomShapedFormRegion.exe
+D:\Projects\CustomShapeFormRegion\obj\Debug\CustomShapedFormRegion.pdb
